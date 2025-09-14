@@ -71,7 +71,3 @@ Furthermore, the low initial loss suggests the dataset features are clearly sepa
 <div align="center">
   <img align="center" src= "https://github.com/Italohek/CNN-Image-Recognition/blob/main/loss_plot.png" width="720" />
 </div>
-
-## License
-
-MIT License
