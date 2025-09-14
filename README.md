@@ -4,9 +4,9 @@ This project implements a Convolutional Neural Network (CNN) for rice image clas
 
 ## Dataset
 
+- The Rice Image Dataset, created by Murat Koklu, is publicly available in the public domain and was sourced from Kaggle.
 - The dataset should be placed in the `Rice_Image_Dataset/` directory, with subfolders for each rice class (e.g., Arborio, Basmati, Ipsala, Jasmine, Karacadag).
 - Images are automatically resized to 32x32 pixels and normalized.
-- The Rice Image Dataset, created by Murat Koklu, is publicly available in the public domain and was sourced from Kaggle.
 
 ## Model Architecture
 
